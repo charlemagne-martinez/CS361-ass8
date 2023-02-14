@@ -21,3 +21,7 @@ To receive this randomly generated number on the client side, the server will se
 via sockets. Finally, on the client side terminal window, you would see which random special
 item would be added to one's shopping list, based on the randomly generated number that the
 server generated and sent back to the client. 
+
+
+Edit: oops, looks like UML sequence diagram should be in this README so adding now.
+![CS361-ass8-umlSequenceDiagram drawio](https://user-images.githubusercontent.com/54691112/218661918-5741ca19-996b-44d7-8567-3ccae822d303.png)
