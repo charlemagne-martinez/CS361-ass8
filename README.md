@@ -1,7 +1,7 @@
 # CS361-ass8
 Assignment 8 for CS361. 
 
-Communication Contract for microservice (currently). 
+Communication Contract for microservice (currently, may be subject to change). 
 
 Currently, this microservice uses sockets in python to showcase its functionality. 
 There is a server python file as well as a client python file. The client python 
